@@ -6,6 +6,9 @@ date: "2022-05-11T00:00:00Z"
 description: Ubuntu 22.04
 tags:
 - linux
+aliases:
+    - /2022/05/11/ubuntu-unattended-upgrades/
+    - /linux/2022/05/11/ubuntu-unattended-upgrades/
 title: '[Ubuntu] unattended-upgrades 설정 (자동 업데이트)'
 ---
 
