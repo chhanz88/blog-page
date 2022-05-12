@@ -8,7 +8,7 @@ theme: "PaperMod"
 params:
   showtoc: false
   assets:
-    favicon: "<link / abs url>"
+    favicon: "/assets/favicon.png"
   profileMode:
     enabled: true
     title: ExampleSite
@@ -27,12 +27,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/chhanz"
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
