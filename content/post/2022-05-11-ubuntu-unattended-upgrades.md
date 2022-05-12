@@ -62,8 +62,10 @@ Disable 을 위해서는 아래 명령을 이용하면 됩니다.
 $ sudo dpkg-reconfigure unattended-upgrades
 ```
 위 명령을 입력하면 아래와 같은 Text UI 가 확인이 되고 `<No>` 를 선택하면 서비스가 Disable 됩니다.   
+{{< rawhtml >}}
    <center><img src="/assets/images/post/2022-05-11-ubuntu-unattended-upgrades/1.png" style="max-width: 95%; height: auto;"></center>    
    
+{{< /rawhtml >}}
 상세 설정은 아래와 같이 `0` 로 변경됩니다.   
 ```bash
 ubuntu@chhan-u2204:~$ sudo dpkg-reconfigure unattended-upgrades
