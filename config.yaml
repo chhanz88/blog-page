@@ -1,0 +1,8 @@
+baseURL: https://chhanz88.github.io
+disablePathToLower: true
+languageCode: en-us
+title: "chhanz \n기술 블로그\n"
+theme: "PaperMod"
+
+permalinks:
+  posts: "/:year/:month/:slug/"
