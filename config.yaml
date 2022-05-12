@@ -6,10 +6,11 @@ enableRobotsTXT: true
 theme: "PaperMod"
 
 params:
+  showtoc: false
   assets:
     favicon: "<link / abs url>"
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true
     title: ExampleSite
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
