@@ -9,19 +9,6 @@ params:
   showtoc: false
   assets:
     favicon: "/assets/favicon.png"
-  profileMode:
-    enabled: true
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
