@@ -7,6 +7,7 @@ theme: "PaperMod"
 
 params:
   showtoc: false
+  comments: true
   assets:
     favicon: "https://chhanz88.github.io/assets/favicon.png"
   homeInfoParams:
