@@ -1,10 +1,7 @@
 ---
-layout: page
+layout: Links
 title: Links
-permalink: /Links/
-image: /assets/images/link_page.jpg
-sitemap:
-  priority: 0.7
+url: /links/
 ---
 
 # Recommend Links

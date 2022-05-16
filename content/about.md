@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: About
 title: About chhanz
-permalink: /about/
-image: /assets/images/about_cover2.jpg
+url: /about/
 ---
 <center>
 <br>
