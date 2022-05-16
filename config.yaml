@@ -6,6 +6,7 @@ enableRobotsTXT: true
 theme: "PaperMod"
 
 params:
+  env: production
   showtoc: false
   comments: true
   assets:
@@ -29,13 +30,11 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 markup:
-    highlight:
-        # anchorLineNos: true
-        codeFences: true
-        guessSyntax: true
-        # noClasses: false
-        style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
   main:
     - identifier: Links
