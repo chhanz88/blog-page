@@ -40,3 +40,7 @@ menu:
       url: /about/
       weight: 30
 
+outputs:
+  home:
+    - HTML
+    - RSS
