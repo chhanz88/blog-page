@@ -33,10 +33,10 @@ params:
 
 menu:
   main:
-    - identifier: Links
-      name: Links
-      url: /links/
-      weight: 20
+          #    - identifier: Links
+#      name: Links
+#      url: /links/
+#      weight: 20
     - identifier: Archives 
       name: Archives 
       url: /archives 
@@ -45,12 +45,13 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: About
-      name: About
-      url: /about/
-      weight: 40
+#    - identifier: About
+#      name: About
+#      url: /about/
+#      weight: 40
 
 outputs:
   home:
     - HTML
     - RSS
+    - JSON
