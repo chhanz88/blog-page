@@ -11,9 +11,9 @@ summary: About chhanz
 
 <br><b><a href="https://www.redhat.com/rhtapps/services/verify/?certId=160-204-038"><font color="red">RED HAT CERTIFIED ARCHITECT IN INFRASTRUCTURE</font></a></b>
 <br><b><a href="https://www.credly.com/badges/cfe1dfa3-8d06-4a87-aa96-6f72140a1ec0"><font color="blue">CKA: Certified Kubernetes Administrator</font></a></b>
-<p>Cloud Engineer</p>
-<p>(han0495@gmail.com)</p>
-<p><a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a>&nbsp;<a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a></p>
+<p>Cloud Engineer<br>
+(han0495@gmail.com)<br>
+<a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a>&nbsp;<a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a></p>
 
 </center>
 {{< /rawhtml >}}
