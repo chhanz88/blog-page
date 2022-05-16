@@ -1,6 +1,6 @@
 ---
 layout: About
-title: About chhanz
+title: About
 url: /about/
 ---
 {{< rawhtml >}}

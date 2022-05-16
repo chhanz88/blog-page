@@ -6,7 +6,7 @@ enableRobotsTXT: true
 theme: "PaperMod"
 
 params:
-  env: production
+        #  env: production
   showtoc: false
   comments: true
   assets:
