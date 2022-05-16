@@ -33,6 +33,7 @@ params:
 
 menu:
   main:
+<<<<<<< HEAD
           #    - identifier: Links
 #      name: Links
 #      url: /links/
@@ -49,6 +50,16 @@ menu:
 #      name: About
 #      url: /about/
 #      weight: 40
+=======
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 30
+>>>>>>> parent of 2195d80... rebuilding site Mon May 16 08:10:56 UTC 2022
 
 outputs:
   home:
