@@ -34,7 +34,7 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
 menu:
   main:
     - identifier: Links
