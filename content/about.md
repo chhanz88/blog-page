@@ -3,6 +3,7 @@ layout: About
 title: About chhanz
 url: /about/
 ---
+{{< rawhtml >}}
 <center>
 <br>
 <img src="/assets/images/pc/default_blog_logo.png" width="70" height="70">
@@ -21,7 +22,7 @@ Cloud Engineer
 <a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a>
 
 </center>
-
+{{< /rawhtml >}}
 * * *
 
 안녕하세요. chhanz 블로그에 방문해주셔서 감사합니다. :)   
@@ -42,7 +43,9 @@ Cloud Engineer
 * Red Hat OpenStack Platform 13   
 * Red Hat OpenShift Container Platform 3.5, Red Hat OpenShift Container Platform 4.5    
 * Red Hat Ceph Storage 3.0   
+{{< rawhtml >}}
 <a href="https://www.redhat.com/rhtapps/services/verify/?certId=160-204-038">@ Go to Red Hat Certification Central </a>
+{{< /rawhtml >}}
 
 ## Opensource 
 >* CentOS 
