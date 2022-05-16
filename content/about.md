@@ -1,7 +1,8 @@
 ---
-layout: About
-title: About
-url: /about/
+#layout: "About"
+title: "About"
+url: "/about/"
+summary: About chhanz
 ---
 {{< rawhtml >}}
 <center>
