@@ -13,7 +13,7 @@ summary: About chhanz
 <br><b><a href="https://www.credly.com/badges/cfe1dfa3-8d06-4a87-aa96-6f72140a1ec0"><font color="blue">CKA: Certified Kubernetes Administrator</font></a></b>
 Cloud Engineer
 (han0495@gmail.com)
-<a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a> <a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a>
+<a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a>&nbsp;<a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a>
 
 </center>
 {{< /rawhtml >}}
