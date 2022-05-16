@@ -6,17 +6,14 @@ summary: About chhanz
 ---
 {{< rawhtml >}}
 <center>
-<br>
 <img src="/assets/images/pc/default_blog_logo.png" width="70" height="70">
 <font size="5">Cheolhee Han</font>
+
 <br><b><a href="https://www.redhat.com/rhtapps/services/verify/?certId=160-204-038"><font color="red">RED HAT CERTIFIED ARCHITECT IN INFRASTRUCTURE</font></a></b>
 <br><b><a href="https://www.credly.com/badges/cfe1dfa3-8d06-4a87-aa96-6f72140a1ec0"><font color="blue">CKA: Certified Kubernetes Administrator</font></a></b>
-<br>
 Cloud Engineer
-<br>
 (han0495@gmail.com)
-<br>
-<a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a>&emsp;<a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a>
+<a href="https://github.com/chhanz"><img src="/assets/images/pc/icon_git.png" width="20" height="20"></a> <a href="https://www.linkedin.com/in/chhanz/"><img src="/assets/images/pc/icon_linkedin.png" width="20" height="20"></a>
 
 </center>
 {{< /rawhtml >}}
