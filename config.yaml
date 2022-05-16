@@ -35,10 +35,18 @@ menu:
       name: categories
       url: /categories/
       weight: 10
+    - identifier: Archives 
+      name: Archives 
+      url: /archives 
+      weight: 20
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 30
     - identifier: About
       name: About
       url: /about/
-      weight: 30
+      weight: 40
 
 outputs:
   home:
