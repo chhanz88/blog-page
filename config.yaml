@@ -6,7 +6,7 @@ enableRobotsTXT: true
 theme: "PaperMod"
 
 params:
-        #  env: production
+  env: production
   showtoc: false
   comments: true
   assets:
@@ -33,11 +33,10 @@ params:
 
 menu:
   main:
-<<<<<<< HEAD
-          #    - identifier: Links
-#      name: Links
-#      url: /links/
-#      weight: 20
+    - identifier: Links
+      name: Links
+      url: /links/
+      weight: 20
     - identifier: Archives 
       name: Archives 
       url: /archives 
@@ -46,11 +45,10 @@ menu:
       name: Search
       url: /search/
       weight: 30
-#    - identifier: About
-#      name: About
-#      url: /about/
-#      weight: 40
-=======
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 40
     - identifier: categories
       name: categories
       url: /categories/
@@ -59,8 +57,6 @@ menu:
       name: About
       url: /about/
       weight: 30
->>>>>>> parent of 2195d80... rebuilding site Mon May 16 08:10:56 UTC 2022
-
 outputs:
   home:
     - HTML
